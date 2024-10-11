@@ -2,9 +2,9 @@
 
 Commerce(information system and management) student
 - 👋 Hi, I’m @gmakshaya2004
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning  python 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in information technology 
+- 🌱 I’m currently learning   python (DSA)
+- 💞️ I’m looking to collaborate  on starting a creative project, building a website.
 - 📫 How to reach me :
 - < br /> [<img _src -"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />] (
 	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "/>]
