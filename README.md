@@ -11,7 +11,7 @@ Commerce(information system and management) student
 - 
 - 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I know Japanese 
   ## I code in
   <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="40" height="40" src="https://img.icons8.com/office/40/sql.png" alt="sql"/> <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
 gmakshaya2004/gmakshaya2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
