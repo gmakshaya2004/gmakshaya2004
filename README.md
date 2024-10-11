@@ -1,3 +1,6 @@
+## Hi there It's me Akshaya
+
+Commerce(information system and management)
 - 👋 Hi, I’m @gmakshaya2004
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning  python 
