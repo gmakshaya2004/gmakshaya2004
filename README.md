@@ -1,7 +1,7 @@
 ## Hi there It's me Akshaya
 
 Commerce(information system and management) student
-- 👋 Hi, I’m gmakshaya
+- 👋 Hi, I’m Akshaya G.M
 - 👀 I’m interested in information technology 
 - 🌱 I’m currently learning   python (DSA)
 - 💞️ I’m looking to collaborate  on starting a creative project, building a website.
