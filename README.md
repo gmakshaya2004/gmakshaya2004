@@ -12,7 +12,8 @@ Commerce(information system and management) student
 - 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+  ## I code in
+  <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 <!---
 gmakshaya2004/gmakshaya2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
